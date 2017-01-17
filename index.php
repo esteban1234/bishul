@@ -64,6 +64,11 @@
 	</article>
 </header>
 
+<article class="slide">
+	
+</article>
+
+<span class="ir-arriba icon-chevron-up"></span>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script src="js/active.js"></script>
 <script type="text/javascript" src="js/iconoarriba.js"></script>
