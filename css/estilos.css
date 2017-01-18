@@ -83,6 +83,7 @@ figure {
     /*outline: 2px red solid;*/
     margin-left: 10%;
     float: left;
+    visibility: hidden;
 }
 
 figure img {
@@ -95,6 +96,7 @@ figure img {
     margin-right: 10%;
     width: 40%;
     margin-top: 2%;
+    visibility: hidden;
 }
 
 .nombre {
