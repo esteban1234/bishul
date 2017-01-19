@@ -77,9 +77,66 @@
 	</article>
 </header>
 
-<article class="slide">
-	
+<article class="slide"></article>
+
+<article class="contenser">
+	<h1 class="h1">SERVICIOS</h1>
+	<article class="servicios">
+	  	<article class="conten-precios">
+		    <article class="tabla-precios">
+		      	<h1 class="pricing-title">XV AÑOS</h1>
+		      	<!-- <h2 class="pricing-title2">Fisica</h2> -->
+		      	<article class="contencir">
+		   			<img src="img/xvaños.jpg" alt="" height="250">		          
+		       	</article>
+		        <p class="diseñado">Incluye:</p>
+		        <p class="texto_tabla">Meseros (el numero de meseros depende del numero de invitados), 1 bartender, renta de mesas, sillas, amplia variedad de mantelería, vajilla, plaque, mesa de postres. Precios no incluyen IVA.</p>
+		        <a href="forcontacto.php" class="boton_tabla"><p class="contratar">CONTRATAR</p></a>
+		    </article>
+
+		    <article class="tabla-precios">
+		      	<h1 class="pricing-title">BODAS</h1>
+		      	<!-- <h2 class="pricing-title2">Fisica</h2> -->
+		      	<article class="contencir">
+		   			<img src="img/boda.jpg" alt="" height="250">		          
+		       	</article>
+		        <p class="diseñado">Incluye:</p>
+		        <p class="texto_tabla">Meseros (el numero de meseros depende del numero de invitados), 2 bartenders, renta de mesas, sillas, amplia variedad de mantelería, vajilla, plaque, mesa de postres. Precios no incluyen IVA.</p>
+		        <a href="forcontacto.php" class="boton_tabla"><p class="contratar">CONTRATAR</p></a>
+		    </article>
+
+	    <!-- <article class="tabla-precios">
+	      <h1 class="pricing-title">Persona</h1>
+	      <h2 class="pricing-title2">Fisica +</h2>
+	      <article class="contencir">
+	          <a class="contecirculo2" href="forcontacto.php"><article id="circulodos"><p class="dinero">$900</p> <p class="pesos">pesos</p> <p class="mes">mensuales</p></article></a>
+	          
+	        </article>
+	        <p class="diseñado">Diseñado para:</p>
+	        <p class="texto_tabla">Personas fisicas que cobran por honorarios, rentas, actividad empresarial o salarios con menos de 50 movimientos por mes. Precios no incluyen IVA.</p>
+	        <a href="forcontacto.php" class="boton_tabla"><p class="contratar">CONTRATAR</p></a>
+	    </article> -->
+
+	    <!-- <article class="tabla-precios">
+	      <h1 class="pricing-title">Persona</h1>
+	      <h2 class="pricing-title2">Moral</h2>
+	      <article class="contencir">
+	          <a class="contecirculo2" href="forcontacto.php"><article id="circulodos"><p class="dinero">$1,950</p> <p class="pesos">pesos</p> <p class="mes">mensuales</p></article></a>
+	          
+	        </article>
+	        <p class="diseñado">Diseñado para:</p>
+	        <p class="texto_tabla">Personas morales de menos de 50 movimientos por mes. Se cobrarán $800.00 extras por cada 50 movimientos adicionales. Precios no incluyen IVA.</p>
+	        <a href="forcontacto.php" class="boton_tabla"><p class="contratar">CONTRATAR</p></a>
+	    </article>  -->   
+	  </article>
+	</article>
 </article>
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
 
 <span class="ir-arriba icon-chevron-up"></span>
 <script type="text/javascript" src="js/jquery.js"></script>

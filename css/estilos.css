@@ -200,3 +200,129 @@ figure img {
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+
+/*--------------------servicios index--------------*/
+
+.contenser {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    overflow: hidden;
+    /*margin-top: 5%;*/
+    /*text-align: center;*/
+}
+
+.h1 {
+    color: #231D57;
+    font-family: 'Oswald', sans-serif;
+    margin: 0 auto;
+    margin-top: 2%;
+    font-size: 50px;
+    width: 25%;
+    border-bottom: 1px gray solid;
+    overflow: hidden;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.servicios {
+    /*outline: 2px red solid;*/
+    margin-top: 2%;
+    width: 100%;
+    /*overflow: hidden;*/
+}
+
+.conten-precios {
+    /*outline: 2px green solid;*/
+    width: 75%;
+    margin: 0 auto;
+    padding: 15px 0px 15px 0px;
+    /*text-align: center;*/
+    overflow: hidden;
+}
+
+.tabla-precios {
+    background-color: #F1F5EE;
+    /*border: 2px red solid;*/
+    float: left;
+    width: 315px;
+    /*margin: 0 10px;*/
+    /*margin: 0 auto;*/
+    margin-left: 2%;
+    text-align: center;
+    -moz-box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    -moz-transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    height: 590px;
+}
+
+.tabla-precios:hover {
+    -moz-transition: transform: scale(1.06);
+    -webkit-transition: transform: scale(1.06);
+    -o-transition: transform: scale(1.06);
+    transform: scale(1.06);
+    background-color: #4D96D1;
+}
+
+.pricing-title {
+    /*outline: 2px black solid;*/
+    /*background-color: #e95846;*/
+    padding: 15px 0px 0px 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    text-transform: uppercase;
+    font-size: 22px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+.contencir {
+    /*outline: 2px green solid;*/
+    /*width: 100%;*/
+    /*background-color: rgba(0, 0, 0, 0.4);*/
+    width: 100%;
+    /*margin: 0 auto;*/
+    margin-top: 4%;
+    color: white;
+    /*text-align: center;*/
+}
+
+.diseñado {
+    /*outline: 2px red solid;*/
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+.texto_tabla {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 0px 8px 0px 8px;
+    margin-top: 5%;
+    line-height: 25px;
+}
+
+.boton_tabla {
+    text-decoration: none;
+}
+
+.contratar {
+    width: 95%;
+    margin: 0 auto;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 10%;
+}
+
+.contratar:hover {
+    background-color: #F1F8EE;
+    color: black;
+}
