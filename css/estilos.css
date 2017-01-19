@@ -86,7 +86,7 @@ figure {
     visibility: hidden;
 }
 
-figure img {
+figure .imglogo {
     /*outline: 2px red solid;*/
 }
 
@@ -94,7 +94,7 @@ figure img {
     /*outline: 2px red solid;*/
     float: right;
     margin-right: 10%;
-    width: 40%;
+    width: 42%;
     margin-top: 2%;
     visibility: hidden;
 }
@@ -152,11 +152,11 @@ figure img {
     width: 100%;
 }
 
-.nav {
+.nav2 {
     width: 100%;
 }
 
-.nav li {
+.nav2 li {
     list-style: none;
     float: left;
     padding: 15px 19px;
@@ -167,17 +167,17 @@ figure img {
     transition: all 1s ease;
 }
 
-.nav li a {
+.nav2 li a {
     text-decoration: none;
     font-size: 18px;
     color: #000;
 }
 
-.nav li:hover {
+.nav2 li:hover {
     background-color: #4D96D1;
 }
 
-.select {
+.seleccion {
     /*color: red;*/
     background-color: #4D96D1;
     color: #fff;
@@ -290,6 +290,11 @@ figure img {
     /*text-align: center;*/
 }
 
+.contencir .img {
+    /*outline: 2px red solid;*/
+    margin: 0 auto;
+}
+
 .diseñado {
     /*outline: 2px red solid;*/
     text-align: center;
@@ -325,4 +330,51 @@ figure img {
 .contratar:hover {
     background-color: #F1F8EE;
     color: black;
+}
+
+.btnser {
+    /*border: 2px red solid;*/
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+    padding: 20px;
+}
+
+.btnser a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px;
+    background-color: #231D57;
+}
+
+.btnser a:hover {
+    background-color: #4D96D1;
+    color: #000;
+}
+
+
+/*--------------------------galeria index-------------*/
+
+.gal {
+    margin-bottom: 3%;
+}
+
+.galeriaindex {
+    /*border: 2px red solid;*/
+    width: 100%;
+    margin-top: 5%;
+}
+
+.titulo {
+    /*outline: 2px red solid;*/
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fila2 {
+    margin-top: 3%;
 }
