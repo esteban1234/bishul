@@ -108,7 +108,7 @@
 		    <article class="tabla-precios">
 		      	<h1 class="pricing-title">GRADUACIONES</h1>
 		      	<article class="contencir">
-		   			<img class="img" src="img/boda.jpg" alt="" height="250">		          
+		   			<img class="img" src="img/gradu3.jpg" alt="" height="250">		          
 		       	</article>
 		        <p class="diseñado">Incluye:</p>
 		        <p class="texto_tabla">Meseros (el numero de meseros depende del numero de invitados), 3 bartenders, renta de mesas, sillas, amplia variedad de mantelería, vajilla, plaque, mesa de postres. Precios no incluyen IVA.</p>
@@ -148,8 +148,8 @@
 					<div class="title titulo">Mobiliario</div>
 				</div>
 				<div class="col-md-4">
-					<a href="img/slide12c.jpg" data-lightbox="galeria" data-title="titulo uno"><img src="img/slide12c.jpg" class="img-thumbnail" alt=""></a>
-					<div class="title titulo">Bartenders</div>
+					<a href="img/mesa.jpg" data-lightbox="galeria" data-title="Mesa de dulces"><img src="img/mesa.jpg" class="img-thumbnail" alt=""></a>
+					<div class="title titulo">Mesa de dulces</div>
 				</div>
 			</div>
 		</div>
@@ -157,10 +157,10 @@
 	
 </article>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab maiores ex consectetur quae maxime quis iste. Laudantium voluptates perferendis asperiores error, rem, sunt obcaecati dicta, molestiae quaerat laborum voluptatem quidem!</p>
+<footer>
+	
+	
+</footer>
 
 <span class="ir-arriba icon-chevron-up"></span>
 <script type="text/javascript" src="js/jquery.js"></script>

@@ -378,3 +378,13 @@ figure .imglogo {
 .fila2 {
     margin-top: 3%;
 }
+
+
+/*---------------footer-------------*/
+
+footer {
+    height: 150px;
+    width: 100%;
+    background-color: #272727;
+    margin-top: 5%;
+}
