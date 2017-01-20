@@ -366,6 +366,8 @@ figure .imglogo {
     /*border: 2px red solid;*/
     width: 100%;
     margin-top: 5%;
+    background-color: #d6eaf8;
+    overflow: hidden;
 }
 
 .titulo {
@@ -383,8 +385,206 @@ figure .imglogo {
 /*---------------footer-------------*/
 
 footer {
-    height: 150px;
+    height: 80px;
     width: 100%;
     background-color: #272727;
-    margin-top: 5%;
+    /*margin-top: 5%;*/
+    overflow: hidden;
+}
+
+.contenimagenhora {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    margin-top: 2%;
+}
+
+.imgdirectelcorreo {
+    /*outline: 2px green solid;*/
+    width: 50%;
+    float: left;
+}
+
+.hora {
+    /*outline: 2px yellow solid;*/
+    width: 40%;
+    float: right;
+}
+
+.bishulpie {
+    /*outline: 2px white solid;*/
+    width: 70%;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #FFF;
+    margin-top: 1%;
+    margin-left: 5%;
+    text-align: right;
+}
+
+.derechos {
+    width: 90%;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #FFF;
+    margin-top: 1%;
+    margin-left: 5%;
+    /*text-align: right;*/
+}
+
+
+/*----------------------------contacto-----------------*/
+
+.titcontacto {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    height: 90px;
+    overflow: hidden;
+    background-color: #FBFBFB;
+    border-top: 2px #d0d3d4 solid;
+    border-bottom: 2px #d0d3d4 solid;
+}
+
+.tituloapartado {
+    /*outline: 2px green solid;*/
+    width: 20%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin-left: 10%;
+    color: #626567;
+    margin-top: 1.5%;
+    float: left;
+}
+
+.submenu {
+    float: right;
+    width: 22%;
+    margin-top: 2%;
+}
+
+.submenu li {
+    float: left;
+    list-style: none;
+    margin-left: 2%;
+}
+
+.submenu {
+    text-decoration: none;
+    color: #d0d3d4;
+}
+
+.cambio {
+    color: #515a5a;
+}
+
+.bannercontacto {
+    /*border: 2px red solid;*/
+    overflow: hidden;
+    width: 100%;
+    /*height: 520px;*/
+    /*background: url('../img/contac.jpg') no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;*/
+    margin-bottom: 5%;
+}
+
+.textobanner {
+    border: 1px #515a5a solid;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 2%;
+    text-align: center;
+    padding: 20px;
+    color: #515a5a;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    /*font-weight: bold;*/
+}
+
+.contenedorform {
+    /*outline: 2px red solid;*/
+    width: 40%;
+    /*margin: 0 auto;*/
+    margin-left: 5%;
+    margin-top: 2%;
+    overflow: hidden;
+    float: left;
+}
+
+.tituloform {
+    /*outline: 2px red solid;*/
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    background-color: #4D96D1;
+    color: white;
+}
+
+.mapa {
+    float: right;
+    width: 40%;
+    margin-right: 5%;
+    margin-top: 2%;
+    overflow: hidden;
+}
+
+.contienedatos {
+    /*border: 2px red solid;*/
+    margin-top: 8%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.direccion {
+    width: 100%;
+}
+
+.icon-location,
+.direc {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.icon-location,
+.icon-mail,
+.icon-clock,
+.icon-phone {
+    font-size: 50px;
+    color: #4D96D1;
+}
+
+.direc {
+    width: 90%;
+    /*text-align: center;*/
+    text-align: center;
+    padding-bottom: 10px;
+    color: #515a5a;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    border-bottom: 1px #515a5a solid;
+}
+
+.icon-location,
+.correo {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.correo {
+    margin-top: 2%;
+    width: 42%;
+    /*text-align: center;*/
+    text-align: center;
+    padding-bottom: 10px;
+    color: #515a5a;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    border-bottom: 1px #515a5a solid;
 }
