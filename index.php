@@ -138,7 +138,7 @@
 		        <a href="forcontacto.php" class="boton_tabla"><p class="contratar">CONTRATAR</p></a>
 		    </article>
 	  </article>
-	  <p class="btnser"><a class="pulse" href="">VER MAS SERVICIOS</a></p>
+	  <p class="btnser"><a class="pulse" href="vistas/servicios.php">VER MAS SERVICIOS</a></p>
 	</article>
 </article>
 
