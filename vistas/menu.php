@@ -39,7 +39,7 @@
 			<ul class="nav2">
 				<li><a href="index.php">INICIO</a></li>
 				<li><a href="vistas/nosotros.php">QUIENES SOMOS</a></li>
-				<li><a href="vistas/servicios">SERVICIOS</a></li>
+				<li><a href="vistas/servicios.php">SERVICIOS</a></li>
 				<li><a href="vistas/contacto.php">CONTACTO</a></li>
 			</ul>
 		</article>
