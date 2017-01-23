@@ -21,11 +21,8 @@
 
 <?php include 'vistas/menu.php' ?>
 
-<article class="slide">
-	<div class="container-fluid">
-		<!-- <h3>TOP MUSIC</h3> -->
+<div class="container-fluid">
 			<div class="row">
-				<div class="col-xs-12">
 						<div id="carousel-ejemplo" class="carousel slide" data-ride="carousel">
 							<ol class="carousel-indicators">
 								<li data-target="#carousel-ejemplo" data-slide-to="0" class="active"></li>
@@ -38,71 +35,81 @@
 								<li data-target="#carousel-ejemplo" data-slide-to="7"></li>
 							</ol>
 
-							<div class="carousel-inner" role="listbox">
+							<div class="carousel-inner">
 								<div class="item active">
-									<img src="img/carousel/img-1.jpg" alt="">
+									<img src="img/carousel/img-2.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola Santiago</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
 
 								<div class="item">
 									<img src="img/carousel/img-2.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola ADRIAN</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
 
 								<div class="item">
 									<img src="img/carousel/img-3.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola ALONZO</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
 
 								<div class="item">
 									<img src="img/carousel/img-4.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola MIGUEL</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
 
 								<div class="item">
 									<img src="img/carousel/img-5.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola PEDRO</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
 
 								<div class="item">
 									<img src="img/carousel/img-6.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola MARGARITA</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
 
 								<div class="item">
 									<img src="img/carousel/img-7.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola Santiago</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
 
 								<div class="item">
 									<img src="img/carousel/img-8.jpg" alt="">
 									<div class="carousel-caption">
-											<h3>Hola Santiago</h3>
+											<h3>Hola j</h3>
+											<p>es un ejemplo</p>
 									</div>
 								</div>
+
+								<a class="left carousel-control" href="#carousel-ejemplo" role="button" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+								</a>
+								<a class="right carousel-control" href="#carousel-ejemplo" role="button" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+								</a>
 							</div>  <!-- CIERRA carousel-inner-->
-						</div>
-
-
-				</div> <!--CIERRA COL-XS-8-->
-
+						</div> <!--CIERRA carousel-ejemplo-->
 			</div> <!--CIERRA ROW-->
-	</div>
-</article>
+	</div> <!-- CIERRA container-fluid-->
 
 <article class="contenser">
 	<h1 class="h1">SERVICIOS</h1>
