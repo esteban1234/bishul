@@ -516,7 +516,7 @@
     .mision {
         /*outline: 2px red solid;*/
         width: 30%;
-        margin-left: 2%;
+        margin-left: 3%;
         padding: 10px;
         float: left;
         border-left: 2px #4D96D1 solid;
@@ -541,6 +541,26 @@
         color: #626567;
         font-size: 16px;
         text-align: justify;
+    }
+    /*---------------------------------servicios-----------------------*/
+    
+    .contentextser {
+        /*outline: 2px red solid;*/
+        margin-top: 2%;
+        padding: 20px;
+        background-color: #231D57;
+    }
+    
+    .contentextser p {
+        width: 55%;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: #fff;
+        font-size: 25px;
+        font-weight: bold;
+        border: 1px #fff solid;
+        padding: 15px;
     }
     /*----------------------------contacto-----------------*/
     
