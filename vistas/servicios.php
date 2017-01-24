@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 
 <?php include 'encabezado2.php' ?>
 

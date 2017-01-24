@@ -1,4 +1,5 @@
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
 	<meta charset="UTF-8">
 	<link rel="icon" type="image/png" href="img/favicon.png" />

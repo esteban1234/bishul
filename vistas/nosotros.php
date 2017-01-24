@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-
-
 <?php include 'encabezado2.php' ?>
 
 <body>
@@ -51,11 +48,11 @@
 			<article class="mision">
 			<p class="mision_tit">Misión</p>
 			<p class="mision_texto">Ser  una empresa que ofrece servicios integrales para la realización de todo tipo de eventos sociales, elaborando nuestros platillos y servicios con la más alta calidad, utilizando siempre el mobiliario adecuado para cada evento para que así disfruten al máximo de su reunión.</p></article>
-			
+
 			<article class="mision">
 			<p class="mision_tit">Visión</p>
 			<p class="mision_texto">Ser líder en el mercado gastronómico en banquetes, innovando y perfeccionando los nuevos gustos gastronómicos de nuestros y futuros clientes, mejorando dia a dia el servicio garantizando y respondiendo a las exigencias de los clientes.</p></article>
-			
+
 			<article class="mision">
 			<p class="mision_tit">Valores</p>
 			<p class="mision_texto">
