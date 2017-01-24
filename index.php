@@ -41,58 +41,58 @@
 							<div class="item active">
 								<img src="img/carousel/img-1.jpg" alt="">
 								<div class="carousel-caption">
-										<h3>Hola juan</h3>
-										<p>es un ejemplo</p>
+										<h3>Variedad de platillos</h3>
+										<!-- <p>es un ejemplo</p> -->
 								</div>
 							</div>
 
 							<div class="item">
 								<img src="img/carousel/img-2.jpg" alt="">
 								<div class="carousel-caption">
-										<h3>Hola ADRIAN</h3>
+										<h3>Esquisitos platillos</h3>
 								</div>
 							</div>
 
 							<div class="item">
 								<img src="img/carousel/img-3.jpg" alt="">
 								<div class="carousel-caption">
-										<h3>Hola ALONZO</h3>
+										<h3>Platillos tradicionales</h3>
 								</div>
 							</div>
 
 							<div class="item">
 								<img src="img/carousel/img-4.jpg" alt="">
 								<div class="carousel-caption">
-										<h3>Hola MIGUEL</h3>
+										<h3>Cocina Gourmet</h3>
 								</div>
 							</div>
 
 							<div class="item">
 								<img src="img/carousel/img-5.jpg" alt="">
 								<div class="carousel-caption">
-										<h3>Hola PEDRO</h3>
+										<h3>Consentimos a tu paladar</h3>
 								</div>
 							</div>
 
 							<div class="item">
 								<img src="img/carousel/img-6.jpg" alt="">
 								<div class="carousel-caption">
-										<h3>Hola MARGARITA</h3>
+										<h3>Gran variedad de platillos de entrada</h3>
 								</div>
 							</div>
 
 							<div class="item">
 								<img src="img/carousel/img-7.jpg" alt="">
 								<div class="carousel-caption">
-										<h3>Hola Santiago</h3>
+										<h3>Gran variedad de platillos de entrada</h3>
 								</div>
 							</div>
 
 							<div class="item">
-								<img src="img/carousel/img-7.jpg" alt="">
+								<img src="img/carousel/img-8.jpg" alt="">
 								<!-- <img class="d-block img-fluid" src="..." alt="Second slide"> -->
 								<div class="carousel-caption">
-										<h2>Hola Santiago</h2>
+										<h2>Platillos exoticos</h2>
 								</div>
 							</div>
 						</div>  <!-- CIERRA carousel-inner-->
