@@ -12,7 +12,7 @@
   	<link rel="stylesheet" href="../css/lightbox.css">
 	<link rel="stylesheet" href="../css/estilos.css">
 	<link rel="stylesheet" href="../css/animate.css">
-	<link rel="stylesheet" href="../fonts1/style.css">
+	<link rel="stylesheet" href="../fonts/style.css">
 	<!-- <link rel="stylesheet" href="../fonts/style.css"> -->
 	<!-- <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"> -->
 	<!-- <link rel="stylesheet" href="css/responsivo.css"> -->
