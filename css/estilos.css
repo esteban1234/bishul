@@ -7,7 +7,7 @@
         box-sizing: border-box;
     }
     /*------------------ir-arriba-------------*/
-    
+
     .ir-arriba {
         display: none;
         padding: 20px;
@@ -20,7 +20,12 @@
         right: 20px;
     }
     /*-------------------------------------------*/
-    
+    .sl
+    {
+      border: 2px solid red;
+    }
+
+
     .lineaarriba {
         /*outline: 2px red solid;*/
         width: 100%;
@@ -30,7 +35,7 @@
         background-color: #4D96D1;
         /*background-color: #231D57*/
     }
-    
+
     .lineadentro {
         /*outline: 2px red solid;*/
         width: 70%;
@@ -38,14 +43,14 @@
         text-align: center;
         padding: 5px 0px 10px 0px;
     }
-    
+
     .contenpuntonsmas {
         /*outline: 2px green solid;*/
         width: 18%;
         float: left;
         margin-left: 2%;
     }
-    
+
     .puntoslineas {
         /*outline: 2px red solid;*/
         float: left;
@@ -56,7 +61,7 @@
         font-size: 13px;
         margin-left: 5%;
     }
-    
+
     .mas {
         float: right;
         font-family: 'Roboto', sans-serif;
@@ -66,24 +71,24 @@
         font-size: 13px;
     }
     /*------------------header-----------*/
-    
+
     header {
         /*outline: 2px red solid;*/
         /*height: 190px;*/
         width: 100%;
     }
-    
+
     figure {
         /*outline: 2px red solid;*/
         margin-left: 10%;
         float: left;
         visibility: hidden;
     }
-    
+
     figure .imglogo {
         /*outline: 2px red solid;*/
     }
-    
+
     .contenedormenu {
         /*outline: 2px red solid;*/
         float: right;
@@ -92,26 +97,26 @@
         margin-top: 2%;
         visibility: hidden;
     }
-    
+
     .nombre {
         border-bottom: 1px gray solid;
         width: 100%;
         /*text-align: center;*/
         padding-bottom: 10px;
     }
-    
+
     .conteniconos,
     .bishul {
         display: inline-block;
         vertical-align: top;
     }
-    
+
     .conteniconos {
         /*float: left;*/
         width: 20%;
         margin-left: 9%;
     }
-    
+
     .bishul {
         /*float: right;*/
         font-family: 'Roboto', sans-serif;
@@ -120,13 +125,13 @@
         font-size: 16px;
         margin-left: 15%;
     }
-    
+
     .bishul b {
         font-family: 'Roboto', sans-serif;
         color: #231D57;
         font-size: 20px;
     }
-    
+
     .icon-drink,
     .icon-cake,
     .icon-bowl {
@@ -137,17 +142,17 @@
         margin-left: 10%;
     }
     /*-------------------------------menu--------------------*/
-    
+
     .nav1 {
         /*outline: 2px red solid;*/
         margin-top: 7%;
         width: 100%;
     }
-    
+
     .nav2 {
         width: 100%;
     }
-    
+
     .nav2 li {
         list-style: none;
         float: left;
@@ -158,25 +163,25 @@
         -ms-transition: all 1s ease;
         transition: all 1s ease;
     }
-    
+
     .nav2 li a {
         text-decoration: none;
         font-size: 18px;
         color: #000;
     }
-    
+
     .nav2 li:hover {
         background-color: #4D96D1;
     }
-    
+
     .seleccion {
         /*color: red;*/
         background-color: #4D96D1;
         color: #fff;
     }
     /*---------------------slide--------------------*/
-    
-    .slide {
+
+    /*.slide {
         overflow: hidden;
         width: 100%;
         height: 520px;
@@ -189,9 +194,9 @@
         position: relative;
         background-position: center center;
         background-repeat: no-repeat;
-    }
+    }*/
     /*--------------------servicios index--------------*/
-    
+
     .contenser {
         /*outline: 2px red solid;*/
         width: 100%;
@@ -199,7 +204,7 @@
         /*margin-top: 5%;*/
         /*text-align: center;*/
     }
-    
+
     .h1 {
         color: #231D57;
         font-family: 'Oswald', sans-serif;
@@ -212,14 +217,14 @@
         letter-spacing: 4px;
         text-align: center;
     }
-    
+
     .servicios {
         /*outline: 2px red solid;*/
         margin-top: 2%;
         width: 100%;
         /*overflow: hidden;*/
     }
-    
+
     .conten-precios {
         /*outline: 2px green solid;*/
         width: 75%;
@@ -228,7 +233,7 @@
         /*text-align: center;*/
         overflow: hidden;
     }
-    
+
     .tabla-precios {
         background-color: #F1F5EE;
         /*border: 2px red solid;*/
@@ -247,7 +252,7 @@
         transition: all 0.25s ease;
         height: 590px;
     }
-    
+
     .tabla-precios:hover {
         -moz-transition: transform: scale(1.06);
         -webkit-transition: transform: scale(1.06);
@@ -255,7 +260,7 @@
         transform: scale(1.06);
         background-color: #4D96D1;
     }
-    
+
     .pricing-title {
         /*outline: 2px black solid;*/
         /*background-color: #e95846;*/
@@ -266,7 +271,7 @@
         font-size: 22px;
         text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
     }
-    
+
     .contencir {
         /*outline: 2px green solid;*/
         /*width: 100%;*/
@@ -277,12 +282,12 @@
         color: white;
         /*text-align: center;*/
     }
-    
+
     .contencir .img {
         /*outline: 2px red solid;*/
         margin: 0 auto;
     }
-    
+
     .diseñado {
         /*outline: 2px red solid;*/
         text-align: center;
@@ -291,7 +296,7 @@
         font-weight: bold;
         margin-top: 5%;
     }
-    
+
     .texto_tabla {
         font-family: 'Roboto', sans-serif;
         font-size: 16px;
@@ -299,11 +304,11 @@
         margin-top: 5%;
         line-height: 25px;
     }
-    
+
     .boton_tabla {
         text-decoration: none;
     }
-    
+
     .contratar {
         width: 95%;
         margin: 0 auto;
@@ -314,12 +319,12 @@
         font-size: 16px;
         margin-top: 10%;
     }
-    
+
     .contratar:hover {
         background-color: #F1F8EE;
         color: black;
     }
-    
+
     .btnser {
         /*border: 2px red solid;*/
         width: 100%;
@@ -327,7 +332,7 @@
         margin-top: 3%;
         padding: 20px;
     }
-    
+
     .btnser a {
         text-decoration: none;
         color: #fff;
@@ -337,17 +342,17 @@
         padding: 20px;
         background-color: #231D57;
     }
-    
+
     .btnser a:hover {
         background-color: #4D96D1;
         color: #000;
     }
     /*--------------------------galeria index-------------*/
-    
+
     .gal {
         margin-bottom: 3%;
     }
-    
+
     .galeriaindex {
         /*border: 2px red solid;*/
         width: 100%;
@@ -355,19 +360,19 @@
         background-color: #d6eaf8;
         overflow: hidden;
     }
-    
+
     .titulo {
         /*outline: 2px red solid;*/
         text-align: center;
         font-weight: bold;
         font-size: 20px;
     }
-    
+
     .fila2 {
         margin-top: 3%;
     }
     /*---------------footer-------------*/
-    
+
     footer {
         height: 80px;
         width: 100%;
@@ -375,25 +380,25 @@
         /*margin-top: 5%;*/
         overflow: hidden;
     }
-    
+
     .contenimagenhora {
         /*outline: 2px red solid;*/
         width: 100%;
         margin-top: 2%;
     }
-    
+
     .imgdirectelcorreo {
         /*outline: 2px green solid;*/
         width: 50%;
         float: left;
     }
-    
+
     .hora {
         /*outline: 2px yellow solid;*/
         width: 40%;
         float: right;
     }
-    
+
     .bishulpie {
         /*outline: 2px white solid;*/
         width: 70%;
@@ -404,7 +409,7 @@
         margin-left: 5%;
         text-align: right;
     }
-    
+
     .derechos {
         width: 90%;
         font-family: 'Lato', sans-serif;
@@ -415,13 +420,13 @@
         /*text-align: right;*/
     }
     /*---------------------------quienes somos---------------*/
-    
+
     .contieneserv {
         /*outline: 2px red solid;*/
         width: 100%;
         overflow: hidden;
     }
-    
+
     .fotodescrip {
         /*outline: 2px green solid;*/
         overflow: hidden;
@@ -431,7 +436,7 @@
         background-color: #EEEEEE;
         float: left;
     }
-    
+
     .tex_bajo_foto {
         padding: 25px;
         width: 100%;
@@ -440,11 +445,11 @@
         color: #626567;
         font-size: 17px;
     }
-    
+
     .tex_bajo_foto b {
         color: #4D96D1;
     }
-    
+
     .iconosdescrip {
         overflow: hidden;
         margin-right: 10%;
@@ -452,17 +457,17 @@
         width: 37%;
         float: right;
     }
-    
+
     .icono_texto {
         width: 100%;
         margin-top: 5%;
         overflow: hidden;
     }
-    
+
     .contienecirculo {
         float: left;
     }
-    
+
     .circulo {
         width: 100px;
         height: 100px;
@@ -475,12 +480,12 @@
         font-size: 36px;
         vertical-align: middle;
     }
-    
+
     .icon-users,
     .icon-flow-tree {
         color: #fff;
     }
-    
+
     .text_lado_icono {
         float: right;
         width: 75%;
@@ -489,7 +494,7 @@
         color: #626567;
         font-size: 17px;
     }
-    
+
     .textoaparte {
         width: 100%;
         text-align: center;
@@ -500,19 +505,19 @@
         font-size: 16px;
         border: 1px #626567 solid;
     }
-    
+
     .mvv {
         /*outline: 2px red solid;*/
         overflow: hidden;
         width: 100%;
         margin-top: 3%;
     }
-    
+
     .contienemvv {
         width: 90%;
         margin: 0 auto;
     }
-    
+
     .mision {
         /*outline: 2px red solid;*/
         width: 30%;
@@ -521,11 +526,11 @@
         float: left;
         border-left: 2px #4D96D1 solid;
     }
-    
+
     .mision:hover {
         border-left: 2px #231D57 solid;
     }
-    
+
     .mision_tit {
         width: 100%;
         font-family: 'Roboto', sans-serif;
@@ -534,7 +539,7 @@
         font-weight: bold;
         text-align: justify;
     }
-    
+
     .mision_texto {
         width: 100%;
         font-family: 'Lato', sans-serif;
@@ -543,14 +548,14 @@
         text-align: justify;
     }
     /*---------------------------------servicios-----------------------*/
-    
+
     .contentextser {
         /*outline: 2px red solid;*/
         margin-top: 2%;
         padding: 20px;
         background-color: #231D57;
     }
-    
+
     .contentextser p {
         width: 55%;
         margin: 0 auto;
@@ -563,7 +568,7 @@
         padding: 15px;
     }
     /*----------------------------contacto-----------------*/
-    
+
     .titcontacto {
         /*outline: 2px red solid;*/
         width: 100%;
@@ -573,7 +578,7 @@
         border-top: 2px #d0d3d4 solid;
         border-bottom: 2px #d0d3d4 solid;
     }
-    
+
     .tituloapartado {
         /*outline: 2px green solid;*/
         width: 20%;
@@ -584,28 +589,28 @@
         margin-top: 1.5%;
         float: left;
     }
-    
+
     .submenu {
         float: right;
         width: 22%;
         margin-top: 2%;
     }
-    
+
     .submenu li {
         float: left;
         list-style: none;
         margin-left: 2%;
     }
-    
+
     .submenu {
         text-decoration: none;
         color: #d0d3d4;
     }
-    
+
     .cambio {
         color: #515a5a;
     }
-    
+
     .bannercontacto {
         /*border: 2px red solid;*/
         overflow: hidden;
@@ -623,7 +628,7 @@
     background-repeat: no-repeat;*/
         margin-bottom: 5%;
     }
-    
+
     .textobanner {
         border: 1px #515a5a solid;
         width: 50%;
@@ -636,7 +641,7 @@
         font-size: 20px;
         /*font-weight: bold;*/
     }
-    
+
     .contenedorform {
         /*outline: 2px red solid;*/
         width: 40%;
@@ -646,7 +651,7 @@
         overflow: hidden;
         float: left;
     }
-    
+
     .tituloform {
         /*outline: 2px red solid;*/
         text-align: center;
@@ -656,7 +661,7 @@
         background-color: #4D96D1;
         color: white;
     }
-    
+
     .mapa {
         float: right;
         width: 40%;
@@ -664,24 +669,24 @@
         margin-top: 2%;
         overflow: hidden;
     }
-    
+
     .contienedatos {
         /*border: 2px red solid;*/
         margin-top: 8%;
         width: 100%;
         overflow: hidden;
     }
-    
+
     .direccion {
         width: 100%;
     }
-    
+
     .icon-location,
     .direc {
         display: inline-block;
         vertical-align: top;
     }
-    
+
     .icon-location,
     .icon-mail,
     .icon-clock,
@@ -689,7 +694,7 @@
         font-size: 50px;
         color: #4D96D1;
     }
-    
+
     .direc {
         width: 90%;
         text-align: center;
@@ -699,13 +704,13 @@
         font-size: 16px;
         border-bottom: 1px #515a5a solid;
     }
-    
+
     .icon-location,
     .correo {
         display: inline-block;
         vertical-align: top;
     }
-    
+
     .correo {
         margin-top: 2%;
         width: 42%;
