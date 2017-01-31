@@ -23,31 +23,31 @@
 	<p class="tituloform">Formulario de contacto</p>
 		<!-- <div class=""> -->
 		<br>
-				<form action="">
+				<form action="envia.php" method="post">
 
 				<div class="form-group">
 					<label for="nombre">Nombre Completo:</label>
-					<input type="text" class="form-control" id="nombre" placeholder="Nombre Completo">
+					<input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre Completo">
 				</div>
 
 				<div class="form-group">
 					<label for="dirección">Dirección:</label>
-					<input type="text" class="form-control" id="dirección" placeholder="Ejemplo: Calle 28 #1233 por 56 y 58 Col. Santa Mónica, México, México">
+					<input type="text" class="form-control" id="dirección" name="direccion" placeholder="Ejemplo: Calle 28 #1233 por 56 y 58 Col. Santa Mónica, México, México">
 				</div>
 
 				<div class="form-group">
 					<label for="telefono">Teléfono:</label>
-					<input type="text" class="form-control" id="telefono" placeholder="Teléfono">
+					<input type="text" class="form-control" id="telefono" name="telefono" placeholder="Teléfono">
 				</div>
 
 				<div class="form-group">
 					<label for="correo">Correo:</label>
-					<input type="text" class="form-control" id="correo" placeholder="Ejemplo: esteban@hotmail.com">
+					<input type="text" class="form-control" id="correo" name="correo" placeholder="Ejemplo: esteban@hotmail.com">
 				</div>
 
 				<div class="form-group">
 					<label for="option">Elige una opción para el servicio:</label>
-					<select class="form-control" name="" id="option">
+					<select class="form-control" name="servicio" id="option">
 						<option value="">XV años</option>
 						<option value="">Boda</option>
 						<option value="">Graduación</option>
@@ -59,7 +59,7 @@
 
 				<div class="form-group">
 					<label for="mensaje">Mensaje:</label>
-					<textarea class="form-control" name="" id="mensaje" cols="30" placeholder="Escribe tu comentario" rows="10"></textarea>
+					<textarea class="form-control" name="mensaje" id="mensaje" cols="30" placeholder="Escribe tu comentario" rows="10"></textarea>
 				</div>
 
 				<button class="btn btn-primary">Enviar</button>
