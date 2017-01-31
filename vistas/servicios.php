@@ -49,9 +49,9 @@
 		        <p class="texto_tabla">Meseros (el numero de meseros depende del numero de invitados), 3 bartenders, renta de mesas, sillas, amplia variedad de mantelería, vajilla, plaque, mesa de postres. Precios no incluyen IVA.</p>
 		        <a href="contacto.php" class="boton_tabla"><p class="contratar">CONTRATAR</p></a>
 		    </article>
-	  </article>
+	  <!-- </article> -->
 
-		<article class="conten-precios">
+		<!-- <article class="conten-precios"> -->
 		    <article class="tabla-precios">
 		      	<h1 class="pricing-title">BAUTIZOS</h1>
 		      	<article class="contencir">

@@ -531,7 +531,7 @@
         width: 50%;
         text-align: center;
     }
-    .contieneserv {}
+
     .contieneserv .fotodescrip {
         width: 100%;
         margin: 0px;
@@ -616,9 +616,7 @@
 }
 
 @media screen and (max-width: 1023px) and (min-width: 800px) {
-    .lineaarriba {}
-    .lineadentro {}
-    header {}
+
     header figure {
         margin: 0px;
         width: 100%;
@@ -688,8 +686,7 @@
         /*border: 2px solid red;*/
     }
     /**************Inicia Nosotros*******************/
-    .titcontacto {}
-    .titcontacto .submenu {}
+
     .titcontacto .tituloapartado {
         width: 50%;
         margin-left: 0px;
@@ -772,13 +769,13 @@
         width: 50%;
     }
     .conten-precios {
-        width: 75%;
+      width: 90%
         text-align: center;
         margin: auto;
     }
     .tabla-precios {
         margin: 20px 10px;
-        width: 31%;
+        width: 30%;
         height: 100%;
     }
 }
