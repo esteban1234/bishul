@@ -1,0 +1,1066 @@
+@media screen and (max-width: 480px){
+  .lineaarriba
+  {
+    /*border: 2px solid red;*/
+  }
+
+  .lineadentro {
+    border: 2px solid yellow;
+    display: none;
+  }
+
+
+  header figure{
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+  }
+
+  header figure img
+  {
+    width: 80%;
+  }
+
+  .contenedormenu
+  {
+    /*border: 2px solid green;*/
+    float: none;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 5%;
+  }
+  .contenedormenu .nav1 .nav2 li
+  {
+    /*border: 2px solid green;*/
+    border-top: .5px solid rgba(133, 129, 132, 0.5);
+    width: 100%;
+    text-align: center;
+  }
+
+  .menu-icono span
+  {
+    font-size: 50px;
+    float: right;
+  }
+
+  .cerrar
+  {
+    display: none;
+  }
+
+  #mod-menu
+  {
+    display: none;
+  }
+
+  .contenedormenu .nombre
+  {
+    display: none;
+  }
+
+  .contenser
+  {
+    /*border: 2px solid red;*/
+  }
+
+  .h1
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0px;
+  }
+
+  .servicios
+  {
+    /*border: 2px solid green;*/
+  }
+
+  .conten-precios
+  {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .tabla-precios
+  {
+    margin: 25px 0px;
+    width: 100%;
+  }
+
+  .tabla-precios h1
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tabla-precios .diseñado
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .tabla-precios article img
+  {
+    width: 60%;
+  }
+
+  .tabla-precios .texto_tabla
+  {
+    font-size: 18px;
+    text-align: justify;
+    padding: 5px 20px;
+  }
+
+  footer
+  {
+    height: 100%;
+  }
+
+  footer  .imgdirectelcorreo, footer  .hora
+  {
+    width: 100%;
+    text-align: center;
+  }
+
+
+  /***************INICIA NOSOTROS*******************/
+
+  .titcontacto
+  {
+    /*border: 2px solid green;*/
+    padding: 0px;
+    height: 100%;
+    margin-bottom: 5%;
+  }
+
+  .titcontacto .submenu
+  {
+    display: none;
+    margin: 0px;
+  }
+
+  .titcontacto .tituloapartado
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .contieneserv
+  {
+    /*border: 2px solid red;*/
+  }
+
+  .contieneserv .fotodescrip
+  {
+    /*border: 2px solid green;*/
+    width: 100%;
+    margin: 0px;
+  }
+
+  .contieneserv .iconosdescrip
+  {
+    /*border: 2px solid blue;*/
+    width: 100%;
+    margin:0px;
+  }
+
+  .iconosdescrip .contienecirculo, .iconosdescrip .text_lado_icono
+  {
+    /*border: 2px solid yellow;*/
+    width: 100%;
+  }
+
+  .iconosdescrip .contienecirculo
+  {
+    padding-left: 36%;
+  }
+
+  .iconosdescrip .text_lado_icono
+  {
+    padding: 5px 18px;
+  }
+
+  .iconosdescrip .textoaparte
+  {
+    text-align: justify;
+    font-size: 18px;
+    padding: 5px 20px;
+  }
+
+  .contienemvv .mision
+  {
+    /*border: 2px solid red;*/
+    border: none;
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .mision .mision_tit
+  {
+    text-align: center;
+  }
+
+  .mision .mision_texto
+  {
+    font-size: 18px;
+  }
+
+  /******************INICIA CONTACTTO*****************/
+  .textobanner
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: justify;
+  }
+
+  .contenedorform
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .form-group label
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .form-group input
+  {
+    font-size: 15px;
+  }
+
+  .btn
+  {
+    /*border: 2px solid green;*/
+    width: 100%;
+    font-size: 20px;
+  }
+
+
+  .mapa
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 5px 0px;
+  }
+
+  .contienedatos .direccion
+  {
+    /*border: 2px solid green;*/
+    text-align: center;
+  }
+
+  .direccion  p
+  {
+    width: 100%;
+    /*border: 2px solid blue;*/
+  }
+
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  .lineaarriba
+  {
+    /*border: 2px solid red;*/
+    /*margin: 0px;*/
+  }
+
+  .lineadentro {
+    /*border: 2px solid yellow;*/
+  }
+
+  header
+  {
+    /*border: 2px solid red;*/
+    /*height: 100%;*/
+  }
+
+  header figure{
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    /*height: 100%;*/
+    /*border: 2px solid red;*/
+  }
+
+  header figure img
+  {
+    width: 80%;
+    /*border: 2px solid yellow;*/
+  }
+
+  .contenedormenu
+  {
+    /*border: 2px solid green;*/
+    float: none;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 5%;
+  }
+  .contenedormenu .nav1 .nav2 li
+  {
+    /*border: 2px solid green;*/
+    border-top: .5px solid rgba(133, 129, 132, 0.5);
+    width: 100%;
+    text-align: center;
+  }
+
+  .menu-icono span
+  {
+    font-size: 50px;
+    float: right;
+  }
+
+  .cerrar
+  {
+    display: none;
+  }
+
+  #mod-menu
+  {
+    display: none;
+  }
+
+  .contenedormenu .nombre
+  {
+    display: none;
+  }
+
+  .contenser
+  {
+    /*border: 2px solid red;*/
+  }
+
+  .h1
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0px;
+  }
+
+  .servicios
+  {
+    /*border: 2px solid green;*/
+  }
+
+  .conten-precios
+  {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .tabla-precios
+  {
+    margin: 25px 0px;
+    width: 100%;
+  }
+
+  .tabla-precios h1
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tabla-precios .diseñado
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .tabla-precios article img
+  {
+    width: 60%;
+  }
+
+  .tabla-precios .texto_tabla
+  {
+    font-size: 18px;
+    text-align: justify;
+    padding: 5px 20px;
+  }
+
+  footer
+  {
+    height: 100%;
+  }
+
+  footer  .imgdirectelcorreo, footer  .hora
+  {
+    width: 100%;
+    text-align: center;
+  }
+
+
+  /****************INICIA NOSOTROS*************************/
+  .titcontacto
+  {
+    /*border: 2px solid green;*/
+    padding: 0px;
+    height: 100%;
+    margin-bottom: 5%;
+  }
+
+  .titcontacto .submenu
+  {
+    display: none;
+    margin: 0px;
+  }
+
+  .titcontacto .tituloapartado
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .contieneserv
+  {
+    /*border: 2px solid red;*/
+  }
+
+  .contieneserv .fotodescrip
+  {
+    /*border: 2px solid green;*/
+    width: 100%;
+    margin: 0px;
+  }
+
+  .contieneserv .iconosdescrip
+  {
+    /*border: 2px solid blue;*/
+    width: 100%;
+    margin:0px;
+  }
+
+  .iconosdescrip .contienecirculo, .iconosdescrip .text_lado_icono
+  {
+    /*border: 2px solid yellow;*/
+    width: 100%;
+  }
+
+  .iconosdescrip .contienecirculo
+  {
+    padding-left: 36%;
+  }
+
+  .iconosdescrip .text_lado_icono
+  {
+    padding: 5px 18px;
+  }
+
+  .iconosdescrip .textoaparte
+  {
+    text-align: justify;
+    font-size: 18px;
+    padding: 5px 20px;
+  }
+
+  .contienemvv .mision
+  {
+    /*border: 2px solid red;*/
+    border: none;
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .mision .mision_tit
+  {
+    text-align: center;
+  }
+
+  .mision .mision_texto
+  {
+    font-size: 18px;
+  }
+
+  /******************INICIA CONTACTTO*****************/
+  .textobanner
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: justify;
+  }
+
+  .contenedorform
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .form-group label
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .form-group input
+  {
+    font-size: 15px;
+  }
+
+  .btn
+  {
+    /*border: 2px solid green;*/
+    width: 100%;
+    font-size: 20px;
+  }
+
+
+  .mapa
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 5px 0px;
+  }
+
+  .contienedatos .direccion
+  {
+    /*border: 2px solid green;*/
+    text-align: center;
+  }
+
+  .direccion  p
+  {
+    width: 100%;
+    /*border: 2px solid blue;*/
+  }
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+  .lineaarriba
+  {
+  }
+
+  .lineadentro {
+  }
+
+  header
+  {
+
+  }
+
+  header figure{
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    /*border: 2px solid red;*/
+  }
+
+  header figure img
+  {
+    width: 50%;
+    /*border: 2px solid yellow;*/
+  }
+
+  .contenedormenu
+  {
+    /*border: 2px solid green;*/
+    float: none;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 5%;
+  }
+  .contenedormenu .nav1 .nav2 li
+  {
+    /*border: 2px solid green;*/
+    border-top: .5px solid rgba(133, 129, 132, 0.5);
+    width: 100%;
+    text-align: center;
+  }
+
+  .menu-icono span
+  {
+    font-size: 50px;
+    float: right;
+  }
+
+  .cerrar
+  {
+    display: none;
+  }
+
+  #mod-menu
+  {
+    display: none;
+  }
+
+  .contenedormenu .nombre
+  {
+    /*display: none;*/
+  }
+
+
+  .h1
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0px;
+  }
+
+  .servicios
+  {
+    /*border: 2px solid green;*/
+  }
+
+  .conten-precios
+  {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .tabla-precios
+  {
+    margin: 50px 0px;
+    width: 100%;
+  }
+
+  .tabla-precios h1
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tabla-precios .diseñado
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tabla-precios article img
+  {
+    width: 40%;
+  }
+
+  .tabla-precios .texto_tabla
+  {
+    font-size: 18px;
+    text-align: justify;
+    padding: 5px 20px;
+  }
+
+  footer
+  {
+    height: 100%;
+  }
+
+  footer  .imgdirectelcorreo, footer  .hora
+  {
+    text-align: center;
+    /*border: 2px solid red;*/
+    float: none;
+    margin: auto;
+    width: 80%
+  }
+
+  /****************INICIA NOSOTROS*************************/
+  .titcontacto
+  {
+    height: 100%;
+    margin-bottom: 5%;
+  }
+
+  .titcontacto .submenu
+  {
+    width: 50%;
+    padding-left: 20%;
+  }
+
+  .titcontacto .tituloapartado
+  {
+    /*border: 2px solid blue;*/
+    margin: 0px;
+    width: 50%;
+    text-align: center;
+  }
+
+  .contieneserv
+  {
+  }
+
+  .contieneserv .fotodescrip
+  {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .fotodescrip img
+  {
+    width: 100%;
+  }
+
+  .contieneserv .iconosdescrip
+  {
+    /*border: 2px solid blue;*/
+    width: 100%;
+    margin:0px;
+  }
+
+  .iconosdescrip .contienecirculo, .iconosdescrip .text_lado_icono
+  {
+    /*border: 2px solid yellow;*/
+    width: 100%;
+  }
+
+  .iconosdescrip .contienecirculo
+  {
+    padding-left: 36%;
+  }
+
+  .iconosdescrip .text_lado_icono
+  {
+    padding: 5px 18px;
+  }
+
+  .iconosdescrip .textoaparte
+  {
+    text-align: justify;
+    font-size: 18px;
+    padding: 5px 20px;
+  }
+
+  .contienemvv .mision
+  {
+    /*border: 2px solid red;*/
+    border: none;
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .mision .mision_tit
+  {
+    text-align: center;
+  }
+
+  .mision .mision_texto
+  {
+    font-size: 18px;
+  }
+
+  /******************INICIA CONTACTTO*****************/
+  .textobanner
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: justify;
+  }
+
+  .contenedorform
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 10px 0px;
+  }
+
+  .form-group label
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .form-group input
+  {
+    font-size: 15px;
+  }
+
+  .btn
+  {
+    /*border: 2px solid green;*/
+    width: 50%;
+    /*margin: auto;*/
+    margin-left: 28%;
+    font-size: 20px;
+    /*text-align: center;*/
+  }
+
+
+  .mapa
+  {
+    /*border: 2px solid red;*/
+    width: 100%;
+    margin: 5px 0px;
+  }
+
+
+
+  .contienedatos .direccion
+  {
+    /*border: 2px solid green;*/
+    text-align: center;
+  }
+
+  .direccion  p
+  {
+    width: 100%;
+    /*border: 2px solid blue;*/
+  }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+  .lineaarriba
+  {
+  }
+
+  .lineadentro {
+  }
+
+  header
+  {
+
+  }
+
+  header figure{
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    /*border: 2px solid red;*/
+  }
+
+  header figure img
+  {
+    width: 50%;
+    /*border: 2px solid yellow;*/
+  }
+
+  .contenedormenu
+  {
+    float: none;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 5%;
+  }
+
+  .contenedormenu .nav1, .contenedormenu .nombre
+  {
+    text-align: center;
+  }
+
+  .contenedormenu .nav1
+  {
+    padding-left: 19%;
+  }
+
+  #desplega
+  {
+    display: none;
+  }
+
+
+  .h1
+  {
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0px;
+  }
+
+  .conten-precios
+  {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .tabla-precios
+  {
+    margin: 20px 10px;
+    width: 47%;
+  }
+
+  .tabla-precios h1
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tabla-precios .diseñado
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tabla-precios article img
+  {
+    width: 40%;
+  }
+
+  .tabla-precios .texto_tabla
+  {
+    font-size: 18px;
+    text-align: justify;
+    padding: 5px 20px;
+  }
+
+  footer
+  {
+    height: 100%;
+  }
+
+  footer  .imgdirectelcorreo, footer  .hora
+  {
+    width: 50%;
+    /*border: 2px solid red;*/
+  }
+
+  /**************Inicia Nosotros*******************/
+  .titcontacto
+  {
+  }
+
+  .titcontacto .submenu
+  {
+  }
+
+  .titcontacto .tituloapartado
+  {
+    width: 50%;
+    margin-left: 0px;
+    padding-left: 3%;
+  }
+
+  .contieneserv
+  {
+    /*border: 2px solid red;*/
+  }
+
+  .contieneserv .fotodescrip, .contieneserv .iconosdescrip
+  {
+    width: 50%;
+    margin: 0px;
+  }
+
+
+  .fotodescrip img
+  {
+    width: 100%;
+  }
+
+  .icono_texto
+  {
+    /*border: 2px solid blue;*/
+  }
+
+  .icono_texto .contienecirculo
+  {
+    text-align: center;
+    /*border: 2px solid red;*/
+    /*width: 50%;*/
+    padding-left: 35%;
+    margin: auto;
+  }
+
+  .icono_texto .text_lado_icono
+  {
+    width: 100%;
+    padding: 10px 20px;
+  }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+
+  header
+  {
+    /*width: 15%;*/
+    /*border: 2px solid red;*/
+    overflow: hidden;
+  }
+
+  header .slideRight
+  {
+    width: 25%;
+  }
+
+  header .contenedormenu
+  {
+    /*border: 2px solid green;*/
+    width: 55%;
+  }
+
+  #desplega
+  {
+    display: none;
+  }
+
+  .conten-precios
+  {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .tabla-precios
+  {
+    margin: 20px 10px;
+    width: 31%;
+  }
+
+  /***********Inicia Nosotros**************/
+  .titcontacto .tituloapartado
+  {
+    width: 50%;
+    margin-left: 0px;
+    padding-left: 3%;
+  }
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) {
+
+  #desplega
+  {
+    display: none;
+  }
+  
+  .slideRight
+  {
+    width: 30%;
+  }
+
+  .slideRight img
+  {
+    width: 100%;
+  }
+  .contenedormenu
+  {
+    /*border: 2px solid red;*/
+    width: 50%;
+  }
+
+  .conten-precios
+  {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .tabla-precios
+  {
+    margin: 20px 10px;
+    width: 31%;
+  }
+}
+
+/*@media screen and (min-width: 1367px) { }*/

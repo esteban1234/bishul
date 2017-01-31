@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<title>BISHUL GOURMET</title>
-	<!-- <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> -->
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   	<META NAME="Title" content="BISHUL GOURMET en CIUDAD DE MEXICO.">
   	<META NAME="Author" CONTENT="[]"/>
   	<META name="Description" content="Somos una compañía ubicada en la CIUDAD DE MEXICO, México, dedicados a ofrecer servicios de banquetes en general."/>
@@ -12,6 +12,7 @@
   	<link rel="stylesheet" href="css/bootstrap.css">
   	<link rel="stylesheet" href="css/lightbox.css">
 	<link rel="stylesheet" href="css/estilos.css">
+	<link rel="stylesheet" href="css/responsivo.css">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="fonts/style.css">
 	<!-- <link rel="stylesheet" href="fonts/style.css"> -->

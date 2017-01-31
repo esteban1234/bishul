@@ -37,10 +37,13 @@
 		</article>
 		<article class="nav1">
 			<ul class="nav2">
-				<li><a href="../index.php">INICIO</a></li>
-				<li><a href="nosotros.php">QUIENES SOMOS</a></li>
-				<li><a href="servicios.php">SERVICIOS</a></li>
-				<li><a href="contacto.php">CONTACTO</a></li>
+				<li id="desplega"><a class="menu-icono" href="#"><span class="abrir icon-menu"></span><span class="cerrar icon-cross"></span></a></li>
+				<div id="mod-menu">
+					<li><a href="../index.php">INICIO</a></li>
+					<li><a href="nosotros.php">QUIENES SOMOS</a></li>
+					<li><a href="servicios.php">SERVICIOS</a></li>
+					<li><a href="contacto.php">CONTACTO</a></li>
+				</div>
 			</ul>
 		</article>
 	</article>
